@@ -19,4 +19,4 @@ public Statistics(ArrayList<Integer> myHand, ArrayList<Integer> dealerHand, Arra
 		totalCards += deck.get(x);
 	}
 	
-}
+}//hey dudes
